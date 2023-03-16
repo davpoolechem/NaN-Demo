@@ -13,6 +13,6 @@ To be used for CDS Wednesday group programming project.
 a = 1 will execute Demo #1 from above, b = 1 will execute Demo #2 from above,
 and c = 1 will execute Demo #3 from above.
 
-- Method #2: Compile nan.cpp manually with, say, `g++ nan.cpp -o nan' and execute
+- Method #2: Compile nan.cpp manually with, say, `g++ nan.cpp -o nan` and execute
 the binary with the command `./nan a b c`. a, b, and c hold the same definitions
 as in Method #1.
